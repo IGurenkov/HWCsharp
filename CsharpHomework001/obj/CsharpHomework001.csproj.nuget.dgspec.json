@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\source\\repos\\CsharpHomework001\\CsharpHomework001.csproj": {}
+    "C:\\Users\\user\\Documents\\HWCsharp\\CsharpHomework001\\CsharpHomework001.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\source\\repos\\CsharpHomework001\\CsharpHomework001.csproj": {
+    "C:\\Users\\user\\Documents\\HWCsharp\\CsharpHomework001\\CsharpHomework001.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\source\\repos\\CsharpHomework001\\CsharpHomework001.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Documents\\HWCsharp\\CsharpHomework001\\CsharpHomework001.csproj",
         "projectName": "CsharpHomework001",
-        "projectPath": "C:\\Users\\user\\source\\repos\\CsharpHomework001\\CsharpHomework001.csproj",
+        "projectPath": "C:\\Users\\user\\Documents\\HWCsharp\\CsharpHomework001\\CsharpHomework001.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\source\\repos\\CsharpHomework001\\obj\\",
+        "outputPath": "C:\\Users\\user\\Documents\\HWCsharp\\CsharpHomework001\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

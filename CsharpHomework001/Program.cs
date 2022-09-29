@@ -44,7 +44,8 @@ namespace CsharpHomework001
 
         static void Main()
         {
-            /*Console.WriteLine("ГУРЕНКОВ ИЛЬЯ АЛЕКСЕЕВИЧ" + Environment.NewLine);
+            Console.WriteLine("ГУРЕНКОВ ИЛЬЯ АЛЕКСЕЕВИЧ, ПРОГРАММА: Microsoft Visual Studio 2022" + Environment.NewLine);
+            
             /*1. Написать программу «Анкета». Последовательно задаются вопросы (имя, фамилия, возраст, рост, вес). 
             В результате вся информация выводится в одну строчку:
             а) используя склеивание;
