@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CsharpHomework004/1.0.0": {
+        "dependencies": {
+          "IlyaArray": "1.0.0"
+        },
+        "runtime": {
+          "CsharpHomework004.dll": {}
+        }
+      },
+      "IlyaArray/1.0.0": {
+        "runtime": {
+          "IlyaArray.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CsharpHomework004/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "IlyaArray/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

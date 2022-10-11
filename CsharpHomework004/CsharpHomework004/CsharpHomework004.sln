@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CsharpHomework004", "CsharpHomework004.csproj", "{C9315818-0F61-41C5-B969-0B4BE6A8B50B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IlyaArray", "..\IlyaArray\IlyaArray.csproj", "{D1E91848-0C87-4C0F-A434-9A6B6B8D68E9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9315818-0F61-41C5-B969-0B4BE6A8B50B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9315818-0F61-41C5-B969-0B4BE6A8B50B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9315818-0F61-41C5-B969-0B4BE6A8B50B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9315818-0F61-41C5-B969-0B4BE6A8B50B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1E91848-0C87-4C0F-A434-9A6B6B8D68E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1E91848-0C87-4C0F-A434-9A6B6B8D68E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1E91848-0C87-4C0F-A434-9A6B6B8D68E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1E91848-0C87-4C0F-A434-9A6B6B8D68E9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B1F5A887-F50C-4153-82DC-CD237842E0E5}
+	EndGlobalSection
+EndGlobal

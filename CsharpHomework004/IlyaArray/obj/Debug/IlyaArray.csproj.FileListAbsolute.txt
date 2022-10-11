@@ -1,0 +1,6 @@
+C:\Users\user\source\repos\IlyaArray\bin\Debug\IlyaArray.dll
+C:\Users\user\source\repos\IlyaArray\bin\Debug\IlyaArray.pdb
+C:\Users\user\source\repos\IlyaArray\obj\Debug\IlyaArray.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\IlyaArray\obj\Debug\IlyaArray.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\IlyaArray\obj\Debug\IlyaArray.dll
+C:\Users\user\source\repos\IlyaArray\obj\Debug\IlyaArray.pdb
