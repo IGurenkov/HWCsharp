@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\Documents\\HWCsharp\\CsharpHomework004\\CsharpHomework004\\CsharpHomework004.csproj": {}
+    "C:\\Users\\user\\source\\repos\\CsharpHomework005\\CsharpHomework005.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\Documents\\HWCsharp\\CsharpHomework004\\CsharpHomework004\\CsharpHomework004.csproj": {
+    "C:\\Users\\user\\source\\repos\\CsharpHomework005\\CsharpHomework005.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Documents\\HWCsharp\\CsharpHomework004\\CsharpHomework004\\CsharpHomework004.csproj",
-        "projectName": "CsharpHomework004",
-        "projectPath": "C:\\Users\\user\\Documents\\HWCsharp\\CsharpHomework004\\CsharpHomework004\\CsharpHomework004.csproj",
+        "projectUniqueName": "C:\\Users\\user\\source\\repos\\CsharpHomework005\\CsharpHomework005.csproj",
+        "projectName": "CsharpHomework005",
+        "projectPath": "C:\\Users\\user\\source\\repos\\CsharpHomework005\\CsharpHomework005.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Documents\\HWCsharp\\CsharpHomework004\\CsharpHomework004\\obj\\",
+        "outputPath": "C:\\Users\\user\\source\\repos\\CsharpHomework005\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -31,11 +31,7 @@
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
-            "projectReferences": {
-              "C:\\Users\\user\\Documents\\HWCsharp\\CsharpHomework004\\IlyaArray\\IlyaArray.csproj": {
-                "projectPath": "C:\\Users\\user\\Documents\\HWCsharp\\CsharpHomework004\\IlyaArray\\IlyaArray.csproj"
-              }
-            }
+            "projectReferences": {}
           }
         },
         "warningProperties": {
@@ -65,21 +61,6 @@
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
         }
-      }
-    },
-    "C:\\Users\\user\\Documents\\HWCsharp\\CsharpHomework004\\IlyaArray\\IlyaArray.csproj": {
-      "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Documents\\HWCsharp\\CsharpHomework004\\IlyaArray\\IlyaArray.csproj",
-        "projectName": "IlyaArray",
-        "projectPath": "C:\\Users\\user\\Documents\\HWCsharp\\CsharpHomework004\\IlyaArray\\IlyaArray.csproj",
-        "frameworks": {
-          "net472": {
-            "projectReferences": {}
-          }
-        }
-      },
-      "frameworks": {
-        "net472": {}
       }
     }
   }

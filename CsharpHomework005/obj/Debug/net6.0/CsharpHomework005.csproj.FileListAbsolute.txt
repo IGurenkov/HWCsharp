@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\CsharpHomework005\bin\Debug\net6.0\CsharpHomework005.exe
+C:\Users\user\source\repos\CsharpHomework005\bin\Debug\net6.0\CsharpHomework005.deps.json
+C:\Users\user\source\repos\CsharpHomework005\bin\Debug\net6.0\CsharpHomework005.runtimeconfig.json
+C:\Users\user\source\repos\CsharpHomework005\bin\Debug\net6.0\CsharpHomework005.dll
+C:\Users\user\source\repos\CsharpHomework005\bin\Debug\net6.0\CsharpHomework005.pdb
+C:\Users\user\source\repos\CsharpHomework005\obj\Debug\net6.0\CsharpHomework005.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\CsharpHomework005\obj\Debug\net6.0\CsharpHomework005.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\CsharpHomework005\obj\Debug\net6.0\CsharpHomework005.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\CsharpHomework005\obj\Debug\net6.0\CsharpHomework005.AssemblyInfo.cs
+C:\Users\user\source\repos\CsharpHomework005\obj\Debug\net6.0\CsharpHomework005.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\CsharpHomework005\obj\Debug\net6.0\CsharpHomework005.dll
+C:\Users\user\source\repos\CsharpHomework005\obj\Debug\net6.0\refint\CsharpHomework005.dll
+C:\Users\user\source\repos\CsharpHomework005\obj\Debug\net6.0\CsharpHomework005.pdb
+C:\Users\user\source\repos\CsharpHomework005\obj\Debug\net6.0\CsharpHomework005.genruntimeconfig.cache
+C:\Users\user\source\repos\CsharpHomework005\obj\Debug\net6.0\ref\CsharpHomework005.dll
