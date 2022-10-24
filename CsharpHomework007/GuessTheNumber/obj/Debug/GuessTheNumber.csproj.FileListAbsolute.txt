@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\GuessTheNumber\bin\Debug\GuessTheNumber.exe.config
+C:\Users\user\Desktop\GuessTheNumber\bin\Debug\GuessTheNumber.exe
+C:\Users\user\Desktop\GuessTheNumber\bin\Debug\GuessTheNumber.pdb
+C:\Users\user\Desktop\GuessTheNumber\obj\Debug\GuessTheNumber.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\GuessTheNumber\obj\Debug\GuessTheNumber.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\GuessTheNumber\obj\Debug\GuessTheNumber.Properties.Resources.resources
+C:\Users\user\Desktop\GuessTheNumber\obj\Debug\GuessTheNumber.csproj.GenerateResource.cache
+C:\Users\user\Desktop\GuessTheNumber\obj\Debug\GuessTheNumber.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\GuessTheNumber\obj\Debug\GuessTheNumber.exe
+C:\Users\user\Desktop\GuessTheNumber\obj\Debug\GuessTheNumber.pdb
+C:\Users\user\Desktop\GuessTheNumber\obj\Debug\GuessTheNumber.Form1.resources
