@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Configuration>
+	<AppName>Application Name</AppName>
+	<Param1>25</Param1>
+	<Param2>Default</Param2>
+</Configuration>

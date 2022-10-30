@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<Configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <AppName>Application Name</AppName>
+  <Param1>500</Param1>
+  <Param2>Change property</Param2>
+</Configuration>
